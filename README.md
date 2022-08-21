@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![eljsteer's GitHub stats](https://github-readme-stats.vercel.app/api?username=eljsteer&theme=github_dark)
+
 <img src="https://github-readme-stats.vercel.app/api?username=eljsteer&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_rank=true&hide_border=true&theme=dark">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljsteer&layout=compact&langs_count=6&hide_border=true&theme=dark">
 
 Here are some ideas to get you started:
