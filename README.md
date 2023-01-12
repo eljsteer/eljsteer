@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please feel free to browse all my pinned projects.
+I'm a passionate Full-Stack Developer from New Zealand 🌿
 
 <!-- ![eljsteer's GitHub stats](https://github-readme-stats.vercel.app/api?username=eljsteer&theme=github_dark)
 
@@ -8,11 +8,8 @@ Please feel free to browse all my pinned projects.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... FireStarter  - Dao inspired Incubator and Developer Program to connect and build the projects of tomorrow
+- 🌱 I’m currently learning ... Python and Web3 fundamentals
+<!-- - 🤔 I’m looking for help with ...  -->
+- 📫 Hit me up about anything [here](https://www.linkedin.com/in/devjs-jason-steer/)
 
