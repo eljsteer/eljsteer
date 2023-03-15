@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer from New Zealand 🌿
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... FireStarter  - Dao inspired Incubator and Developer Program to connect and build the projects of tomorrow
-- 🌱 I’m currently learning ... Python and Web3 fundamentals
+- 🌱 I’m currently learning ... Python and Typescript
 <!-- - 🤔 I’m looking for help with ...  -->
 - 📫 Hit me up about anything [here](https://www.linkedin.com/in/devjs-jason-steer/)
 
