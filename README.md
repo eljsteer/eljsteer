@@ -1,7 +1,7 @@
 # Hello :wave:
 My name is **Jason** and I'm a passionate **Full stack Developer** from Christchurch, New Zealand🌿 I am currently living in Sydney, Australia.
 
-I first discovered my love of Software and Web development after embarking on a journey into the world of programming with a University of Sydney Bootcamp in 2022.  From there on in, it has been fancy for problem-solving and creativity ever since.
+I first discovered my love of Software and Web development after embarking on a journey into the world of programming with a University of Sydney Bootcamp in 2022.  From there on in, it has been tickling my fancy for problem-solving and creativity ever since.
 # Tools and Technologies
 
 ![html](https://img.shields.io/static/v1?logo=HTML5&label=Code&message=HTML5&color=blue&logoColor=white)
