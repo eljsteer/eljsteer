@@ -8,10 +8,11 @@ I first discovered my love of Software and Web development after embarking on a 
 ![css](https://img.shields.io/static/v1?logo=CSS3&label=Code&message=CSS3&color=blue&logoColor=white)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=Code&message=Javascript&color=blue&logoColor=white)
 ![React](https://img.shields.io/static/v1?logo=React&label=Code&message=React%20JS&color=blue&logoColor=white)
+![Python](https://img.shields.io/static/v1?logo=Python&label=Code&message=Python&color=blue&logoColor=white)
 ![Node](https://img.shields.io/static/v1?logo=Node.js&label=Code&message=Node%20JS&color=blue&logoColor=white)
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=Database&message=MySQL&color=blue&logoColor=white)
 ![MongoDB](https://img.shields.io/static/v1?logo=MongoDB&label=Database&message=MongoDB&color=blue&logoColor=white)
-![Python](https://img.shields.io/static/v1?logo=Python&label=Database&message=Python&color=blue&logoColor=white)
+
 ![Git](https://img.shields.io/static/v1?logo=Git&label=Tools&message=Git&color=blue&logoColor=white)
 
 # Stats
