@@ -23,12 +23,12 @@ I first discovered my love of Software and Web development after embarking on a 
 
 # Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eljsteer&repo=firestarter&theme=algolia)](https://github.com/eljsteer/firestarter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eljsteer&repo=Bonsai_Collective&theme=algolia)](https://github.com/eljsteer/Bonsai_Collective)
 
 <!--
 **eljsteer/eljsteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
-- 🔭 I’m currently working on ... FireStarter  - Dao inspired Incubator and Developer Program to connect and build the projects of tomorrow
+- 🔭 I’m currently working on ... Bonsai Collective  - Ecommerce Site that has all your bonsai growing needs! Connect and share your Bonsai Journey with other uses.
 <!-- 🌱 I’m currently learning ... Python -->
 - 📫 Hit me up about anything [here](https://www.linkedin.com/in/devjs-jason-steer/)
 
